@@ -2,7 +2,7 @@
 ## Some parameters
 ######################################
 
-katia <- 2023
+katia <- 2024
 
 N <- 100 # number of observations
 SD <- 1  # noise
