@@ -4,9 +4,9 @@
 
 katia <- 2024
 
-N <- 100 # number of observations
-SD <- 1  # noise
-MU <- 0  # mean of independent variables
+N <- 200 # number of observations
+SD <- 9  # noise
+MU <- 4  # mean of independent variables
          # conditional probability table
 CPT <- c("00"=.1,"01"=.5,"10"=.3,"11"=.7) 
 PATH <- file.path(".")
