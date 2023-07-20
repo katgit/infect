@@ -1,6 +1,9 @@
 ######################################
 ## Some parameters
 ######################################
+
+katia <- 2023
+
 N <- 100 # number of observations
 SD <- 1  # noise
 MU <- 0  # mean of independent variables
