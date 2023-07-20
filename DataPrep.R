@@ -1,9 +1,4 @@
 
-# install.packages("data.table")
-# install.packages("compute.es")
-# install.packages("effectsize")
-# install.packages("clubSandwich")
-# install.packages("esc")
 
 library(meta)
 library(effectsize)
