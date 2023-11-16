@@ -2,7 +2,7 @@
 ## Some parammmmeters
 ######################################
 
-katia <- 2024
+katia <- 2023
 
 N <- 300 # number of observations
 
